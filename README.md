@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I’m Nizar<br>🎓 Engineering student passionate about technology, software development, and digital innovation<br>🌍 Always curious to learn new things and contribute to impactful projects<br><br>💻 Languages & Scripting<br>Python, Bash, Java, C++, Lua, PHP, HTML, CSS<br><br>☁️ Cloud & Security<br>Microsoft Azure (AZ-500 certified), AWS (fundamentals), Fortinet NSE 1 & 2, IAM, firewall, network segmentation, Active Directory<br><br>🛠️ Tools & Tech<br>Docker, Git, GitHub, VirtualBox, Packet Tracer, Wireshark<br><br>⚡ What I like<br>Building apps that automate tasks, designing secure infrastructures, experimenting with cloud technologies, and working as part of a team
 
 
